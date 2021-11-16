@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=car
+comment1.params=speed
+comment1.target=car(int)
+comment2.params=
+comment2.target=void\ act()
+numComments=3
